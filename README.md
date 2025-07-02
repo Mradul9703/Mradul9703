@@ -1,16 +1,63 @@
-## Hi there 👋
+<h1 align="center">Hi there 👋 I’m Mradul Patoria</h1>
+<p align="center">
+  🚀 Aspiring Machine Learning Engineer | 💻 Python & Data Enthusiast | 🧱 Crafting scalable solutions
+</p>
 
-<!--
-**Mradul9703/Mradul9703** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+### 💡 About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I'm an engineering student with a growing passion for **Machine Learning**, **Python programming**, and **tech-driven problem solving**. I love blending logic with creativity — whether it's coding ML models or designing clean, functional UI visuals.
+
+- 🔭 Currently learning: `Machine Learning`, `Scikit-learn`, `NumPy`, `Pandas`
+- 🎯 Interests: `AI`, `Data Science`, `Automation`, `UI/UX Design`
+
+---
+
+## 🚀 Featured Projects
+
+### 📁 **Employee-Management-System-using-MySQL**
+Python + MySQL CLI app for managing internal employee data (CRUD operations, secure DB integration).
+
+### 📊 **IPL-Data-Analysis**
+Data analysis of IPL cricket using Pandas & Jupyter — includes trend insights, visualizations, and stats breakdown.
+
+### 🦠 **EDA-of-Covid-19-Dataset**
+Exploratory Data Analysis on India’s COVID-19 dataset: cleaning, state-wise statistics, recovery & new-case trends.
+
+### 🏠 **House-Price-Prediction-Model**
+ML regression model (Linear Regression) to predict Mumbai housing prices. Covers data cleaning, feature engineering, training & evaluation.
+
+### ✉️ **Spam-Email-Detection**
+Logistic Regression + TF‑IDF model for classifying spam emails. Includes text preprocessing, feature extraction, and accuracy evaluation.
+
+---
+
+## 🔧 Tech Stack
+
+- **Languages**: Python 🐍, C++  
+- **Data & ML**: Pandas, NumPy, Scikit‑learn, Matplotlib 
+- **Databases**: MySQL  
+- **Tools**: VS Code, Git, Jupyter Notebooks  
+- **Workflow**: OOP, Data cleaning, Model training, CLI development
+
+---
+
+## 🎯 Goals (2025 Roadmap)
+
+- ✅ Add more end-to-end ML projects  
+- ⏳ Dive into model deployment (Flask / Streamlit / Docker)  
+- ⏳ Contribute to open-source ML or data analytics repos  
+- ⏳ Explore computer vision & NLP applications  
+
+---
+
+## 📫 Connect with Me
+
+<p align="center">
+  <a href="mailto:mradulpatoria9703@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/mradul-patoria/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="https://github.com/Mradul9703"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/></a>
+</p>
+
+---
