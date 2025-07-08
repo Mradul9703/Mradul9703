@@ -44,7 +44,7 @@ Logistic Regression + TF‑IDF model for classifying spam emails. Includes text 
 
 ---
 
-## Goals (2025 Roadmap)
+## Goals (2025 Roadmap) 
 
 - Add more end-to-end ML projects  
 - Dive into model deployment (Flask / Streamlit / Docker)  
