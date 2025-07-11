@@ -31,6 +31,9 @@ ML regression model (Linear Regression) to predict Mumbai housing prices. Covers
 ### [Spam-Email-Detection](https://github.com/Mradul9703/Spam-Email-Detection)
 Logistic Regression + TF‑IDF model for classifying spam emails. Includes text preprocessing, feature extraction, and accuracy evaluation.
 
+### [Wine-Quality-Analysis](https://github.com/Mradul9703/Wine-Quality-Analysis)  
+K-Means clustering on white wine data using standardized features. Involves preprocessing, clustering evaluation (Elbow Method & Silhouette Score), and unsupervised grouping without quality labels.
+
 
 ---
 
