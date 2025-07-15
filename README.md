@@ -19,21 +19,17 @@ I'm an engineering student with a growing passion for **Machine Learning**, **Py
 ### [Employee-Management-System-using-MySQL](https://github.com/Mradul9703/Employee-Management-System-using-MySQL)
 Python + MySQL CLI app for managing internal employee data (CRUD operations, secure DB integration).
 
-### [IPL-Data-Analysis](https://github.com/Mradul9703/IPL-Data-Analysis)
-Data analysis of IPL cricket using Pandas & Jupyter — includes trend insights, visualizations, and stats breakdown.
-
 ### [EDA-of-Covid-19-Dataset](https://github.com/Mradul9703/EDA-of-Covid-19-Dataset)
 Exploratory Data Analysis on India’s COVID-19 dataset: cleaning, state-wise statistics, recovery & new-case trends.
-
-### [House-Price-Prediction-Model](https://github.com/Mradul9703/House-Price-Prediction-Model)
-ML regression model (Linear Regression) to predict Mumbai housing prices. Covers data cleaning, feature engineering, training & evaluation.
 
 ### [Spam-Email-Detection](https://github.com/Mradul9703/Spam-Email-Detection)
 Logistic Regression + TF‑IDF model for classifying spam emails. Includes text preprocessing, feature extraction, and accuracy evaluation.
 
 ### [Wine-Quality-Analysis](https://github.com/Mradul9703/Wine-Quality-Analysis)  
-K-Means clustering on white wine data using standardized features. Involves preprocessing, clustering evaluation (Elbow Method & Silhouette Score), and unsupervised grouping without quality labels.
+K-Means clustering on white wine data using standardized features. Involves preprocessing, clustering and evaluation 
 
+### [Customer-Segmentation](https://github.com/Mradul9703/Customer-Segmentation)
+Customer segmentation using clustering on retail RFM data with preprocessing, and evaluation via Elbow Method and Silhouette Score.
 
 ---
 
