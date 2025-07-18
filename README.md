@@ -17,7 +17,7 @@ I'm an engineering student with a growing passion for **Machine Learning**, **Py
 ## Featured Projects
 
 ### [Movie-Recommendation-System](https://github.com/Mradul9703/Movie-Recommendation-System)  
-Python + Streamlit app that recommends 5 similar movies using TMDB API and content-based filtering with cosine similarity
+Python + Streamlit app that recommends 5 similar movies using TMDB API and content-based filtering with cosine similarity [![View](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://movie-recommendation-system-by-mradul.streamlit.app/)
 
 ### [Customer-Segmentation](https://github.com/Mradul9703/Customer-Segmentation)
 Customer segmentation using clustering on retail RFM data with preprocessing, and evaluation via Elbow Method and Silhouette Score
