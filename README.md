@@ -16,20 +16,20 @@ I'm an engineering student with a growing passion for **Machine Learning**, **Py
 
 ## Featured Projects
 
-### [Employee-Management-System-using-MySQL](https://github.com/Mradul9703/Employee-Management-System-using-MySQL)
-Python + MySQL CLI app for managing internal employee data (CRUD operations, secure DB integration).
-
-### [EDA-of-Covid-19-Dataset](https://github.com/Mradul9703/EDA-of-Covid-19-Dataset)
-Exploratory Data Analysis on India’s COVID-19 dataset: cleaning, state-wise statistics, recovery & new-case trends.
-
-### [Spam-Email-Detection](https://github.com/Mradul9703/Spam-Email-Detection)
-Logistic Regression + TF‑IDF model for classifying spam emails. Includes text preprocessing, feature extraction, and accuracy evaluation.
-
-### [Wine-Quality-Analysis](https://github.com/Mradul9703/Wine-Quality-Analysis)  
-K-Means clustering on white wine data using standardized features. Involves preprocessing, clustering and evaluation 
+### [Movie-Recommendation-System](https://github.com/Mradul9703/Movie-Recommendation-System)  
+Python + Streamlit app that recommends 5 similar movies using TMDB API and content-based filtering with cosine similarity
 
 ### [Customer-Segmentation](https://github.com/Mradul9703/Customer-Segmentation)
-Customer segmentation using clustering on retail RFM data with preprocessing, and evaluation via Elbow Method and Silhouette Score.
+Customer segmentation using clustering on retail RFM data with preprocessing, and evaluation via Elbow Method and Silhouette Score
+
+### [Spam-Email-Detection](https://github.com/Mradul9703/Spam-Email-Detection)
+Logistic Regression + TF‑IDF model for classifying spam emails. Includes text preprocessing, feature extraction, and accuracy evaluation
+
+### [EDA-of-Covid-19-Dataset](https://github.com/Mradul9703/EDA-of-Covid-19-Dataset)
+Exploratory Data Analysis on India’s COVID-19 dataset: cleaning, state-wise statistics, recovery & new-case trends
+
+### [Employee-Management-System-using-MySQL](https://github.com/Mradul9703/Employee-Management-System-using-MySQL)
+Python + MySQL CLI app for managing internal employee data (CRUD operations, secure DB integration)
 
 ---
 
